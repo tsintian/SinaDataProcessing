@@ -1,0 +1,9 @@
+22:01:13.756 [main] ERROR util.GetLenghtsOfContent - content length: 3908
+22:01:13.760 [main] ERROR util.GetLenghtsOfContent - r_content length: 3340
+22:01:13.760 [main] ERROR util.GetLenghtsOfContent - pic_content length: 3704
+22:01:13.760 [main] ERROR util.GetLenghtsOfContent - r_location length: 41
+22:01:13.761 [main] ERROR util.GetLenghtsOfContent - r URL length: 11
+22:01:13.761 [main] ERROR util.GetLenghtsOfContent - location length: 934
+22:01:13.761 [main] ERROR util.GetLenghtsOfContent - URL length: 13
+22:01:13.761 [main] ERROR util.GetLenghtsOfContent - nick name length: 30
+22:01:13.762 [main] ERROR util.GetLenghtsOfContent - r nick_name length: 30

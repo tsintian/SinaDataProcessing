@@ -1,0 +1,16 @@
+16:27:07.771 [main] ERROR util.GetLenghtsOfContent - content length: 3941
+16:27:07.776 [main] ERROR util.GetLenghtsOfContent - r_content length: 3249
+16:27:07.776 [main] ERROR util.GetLenghtsOfContent - pic_content length: 3352
+16:27:07.777 [main] ERROR util.GetLenghtsOfContent - r_location length: 31
+16:27:07.777 [main] ERROR util.GetLenghtsOfContent - r URL length: 9
+16:27:07.777 [main] ERROR util.GetLenghtsOfContent - location length: 1238
+16:27:07.777 [main] ERROR util.GetLenghtsOfContent - URL length: 13
+16:27:07.777 [main] ERROR util.GetLenghtsOfContent - nick name length: 30
+16:27:07.777 [main] ERROR util.GetLenghtsOfContent - r nick_name length: 30
+16:27:07.777 [main] ERROR util.GetLenghtsOfContent - touxiang length: 87
+16:27:07.777 [main] ERROR util.GetLenghtsOfContent - device length: 255
+16:27:07.777 [main] ERROR util.GetLenghtsOfContent - r_device length: 27
+16:27:07.777 [main] ERROR util.GetLenghtsOfContent - userId length: 10
+16:27:07.778 [main] ERROR util.GetLenghtsOfContent - r userID length: 10
+16:27:07.778 [main] ERROR util.GetLenghtsOfContent - weiboID length: 16
+16:27:07.778 [main] ERROR util.GetLenghtsOfContent - r weiboID length: 19
